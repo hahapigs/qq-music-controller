@@ -10,8 +10,9 @@ qqmusic version: 8.2.5.2
 
 ## 演示
 
-<img width="685" alt="image" src="https://user-images.githubusercontent.com/29922837/177329666-75ca5746-f545-409c-9f66-44bcb9439405.png">
-<img width="685" alt="image" src="https://user-images.githubusercontent.com/29922837/177329698-d0deecb1-7bd7-4d66-bedb-a1faf0e67bd5.png">
+<img width="685" alt="image" src="https://user-images.githubusercontent.com/29922837/177482758-09441bc8-cea7-4bf6-aa51-6f3605e18493.png">
+<img width="685" alt="image" src="https://user-images.githubusercontent.com/29922837/177482880-bd3cccee-ddb9-40c2-9f54-9484367c8cc3.png">
+
 
 ## 操作指令
 
